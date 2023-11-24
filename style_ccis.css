@@ -1,23 +1,81 @@
 .header{
-	background-color: green; 
-	padding: 5px;
-	width: 99.3%;
-	height: 90px;
-	text-align: left;
-	text-indent: 120px;
+	background-color: #08530B; 
+	width: auto;
+	height: 78px;
 	color: white;
-	font: bold 20px sans-serif;
+	font-size: 45px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-left: 50px;
+	font-family: sans-serif;
 }
-.ccislogo{
-	width: 5%;
-	height: 70px;
-	padding: 7px;
-}
-}
-.navigation{
-	width:98%;
-	height:100px;
-	padding: 2px;
-	margin: 10px;
 
+.navigation{
+	background-color: #97F8AC;
+	width:auto;
+	height:30px;
+	border-radius: 20px;
+	margin:10px;
+	
+}
+	
+
+.content{
+	background-color: #EEEEEE;
+	width: auto;
+	height: 350px;
+	
+}
+
+.text{
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-left: 30px;
+	margin-bottom: 100px;
+	
+}
+
+.button{
+	margin-bottom:100px;
+}
+
+.content2{
+	background-color: #078037;
+	margin-top: 20px;
+	width: auto;
+	height: 650px;
+	padding: 10px;
+	
+}
+.title{
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: white;
+	padding-bottom: 20px;
+}
+.galcon{
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+}
+
+.footer{
+	background-color: #08530B;
+	width: auto;
+	height: 150px;
+	margin-top: 10px
+}
+.text2{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-top: 30px;
+	margin-left: 30px;
+	color: white;
+	
 }
